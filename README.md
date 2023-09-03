@@ -1,8 +1,8 @@
 #Vagrant
 **Vagrant** is an open-source tool that helps you create and manage virtualized development environments. It simplifies the process of setting up and configuring reproducible development environments, making it easier for developers to work on projects with consistent environments across different machines.
 
-1. Create a [Vagrantfile][1] to define your development environment's configuration.
-[1]: https://developer.hashicorp.com/vagrant/docs/vagrantfile/ "link"
+1. Create a [Vagrantfile](https://developer.hashicorp.com/vagrant/docs/vagrantfile) to define your development environment's configuration.
+
 * `mkdir Vagrantfile`
 * `cd Vagrantfile`
 
